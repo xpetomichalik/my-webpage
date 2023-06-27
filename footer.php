@@ -185,7 +185,7 @@
      `;
  
      Email.send({
-         SecureToken : "c2394e33-74ba-4188-9c48-e8fa851a2ce8", //add your token here
+         SecureToken : 
          To : 'michalik.peter99@gmail.com', 
          From : "michalik.peter99@gmail.com",
          Subject : "New Email from   " + email.value,
